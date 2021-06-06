@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blog Archiver</string>
+    <string name="menu.list_action">View archive list</string>
+    <string name="menu.export_action">Export</string>
+    <string name="main.save_action.on_error">There is a problem while parsing. Maybe you should update this application.</string>
+    <string name="list.title.main">Blog list</string>
+    <string name="list.export.error.exist">Already exists %1$s</string>
+    <string name="list.export.success">Successfully %1$s exported</string>
+</resources>
